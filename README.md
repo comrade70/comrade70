@@ -5,7 +5,7 @@
 
 Welcome to my Github Page
 
-:bust_in_silhouette: I’m an Aspiring Software Engineer 
+:bust_in_silhouette: I’m a Web Developer 
 I have carried out a few projects.
 
 Tools :wrench: I use:
