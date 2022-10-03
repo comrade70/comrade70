@@ -1,13 +1,14 @@
 ### Hi there 👋
 
 
-**I am Ademola Joseph with username comrade70** 
+**I am Ademola Joseph** 
 
 Welcome to my Github Page
 
 :bust_in_silhouette: I’m an Aspiring Software Engineer 
-      I have carried out a few projects :wrench:.
-- Tools I use:
+I have carried out a few projects.
+
+Tools :wrench: I use:
 - Python
 - JavaScript
 - CSS
