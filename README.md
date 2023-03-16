@@ -1,7 +1,26 @@
 <h1 align="center">Hi there, I am Joseph Ademola</h1>
-<h3 align="center">I write easy-to-read and maintainable codes. Passionately learning and building in the tech space </h3>
+<p align="left">
+An analytical and result driven fullstack developer with two (2) years coding experience, having solid understanding of both frontend and backend technologies.  
 
-- 🌱 I’m currently learning **Django & Blockchain**
+Highly skilled and experienced in the following: 
+
+Translating wireframes into code.
+
+Analysing and writing of reusable codes and components.
+
+Creating sustainable and functional web applications with clean codes. 
+
+Developing Frontend features to create an attractive and interactive user interface (UI).
+
+Designing APIs .
+
+Test driven development (TDD), troubleshooting and debugging. 
+
+Documentation.
+
+Optimisation of web applications for performance and scalabiliity. </p>
+
+
 
 - 👯 I’m looking to collaborate on **Innovative web application projects**
 
