@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I am Joseph Ademola</h1>
+<h1 align="center">Hey there, I am Joseph Ademola</h1>
 <p align="left">
 An analytical and result driven fullstack developer with two (2) years coding experience, having solid understanding of both frontend and backend technologies.  
 
