@@ -1,10 +1,10 @@
-<h1 align="center">Hey there, I am Joseph Ademola</h1>
+<h1 align="center">Hey there, I am Joseph.</h1>
 <p align="left">
-An analytical and result driven fullstack developer with two (3) years coding experience, having a knack on both frontend and backend technologies.  <br>
+An analytical and result driven Engineer with three (3) years coding experience.  <br>
   
-**2x SAP Certified Asssociate - Integration Developer | HANA Database Administration**
+**5x SAP Certified Asssociate - Data Engineer | Integration Developer | HANA Database Administration**
 
-- 👯 I’m looking to collaborate on **Innovative web application projects**
+- 👯 I’m looking to collaborate on **Innovative Data Engineering / Software Engineering projects**
 
 - 📫 Reach me via **ademolajoseph88@gmail.com**
 
