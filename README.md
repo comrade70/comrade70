@@ -1,6 +1,6 @@
 Hi, I'm 
 # Joseph Ogunronbi 
-### Data Engineer | Data Analyst | Data & AI Specialist  
+### Data Analytics | Data & AI Specialist  
 
 I build **end-to-end data analytics projects**. I help businesses transform raw data into actionable insights.
 
